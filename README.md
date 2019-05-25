@@ -1,5 +1,7 @@
 # Top-Cities
 
+## To run cities.py, please install the following python libraries (requests, lxml, pandas, BeautifulSoup4). I've also included terminal commands to do this below:
+
 pip install --upgrade pip
 
 sudo pip install requests
